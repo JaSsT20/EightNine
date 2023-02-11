@@ -6,10 +6,15 @@
         {
             //CAP 8 -> EX 3
             ShowActualDate();
+            Console.WriteLine("----------------------------------------");
             //CAP 8 -> EX 5
             ShowAlphabeticOrder();
+            Console.WriteLine("----------------------------------------");
             //Cap 9 -> EX 1
             ShowProducts();
+            //Cap 9 -> EX 4
+            Console.WriteLine("----------------------------------------");
+            ShowTires();
         }
 
         public static void ShowActualDate()
@@ -62,5 +67,13 @@
             Console.Write("Presione alguna tecla para continuar...");
             Console.ReadLine();
         }
+
+        public static void ShowTires()
+        {
+            Console.WriteLine("Neumáticos");
+            Tires myTire = Tires.Summer;
+            Console.WriteLine($"La llanta es de tipo: {myTire}");
+        }
+    
     }
 }
