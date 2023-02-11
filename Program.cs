@@ -4,6 +4,11 @@
     {
         static void Main(string[] args)
         {
+            ShowActualDate();
+        }
+
+        public static void ShowActualDate()
+        {
             DateTime date = DateTime.Now;
 
             Console.WriteLine($"Hour: {date.ToString("hh:mm tt")}");
