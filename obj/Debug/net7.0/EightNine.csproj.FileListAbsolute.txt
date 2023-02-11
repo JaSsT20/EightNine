@@ -1,0 +1,15 @@
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\bin\Debug\net7.0\EightNine.exe
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\bin\Debug\net7.0\EightNine.deps.json
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\bin\Debug\net7.0\EightNine.runtimeconfig.json
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\bin\Debug\net7.0\EightNine.dll
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\bin\Debug\net7.0\EightNine.pdb
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\EightNine.csproj.AssemblyReference.cache
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\EightNine.GeneratedMSBuildEditorConfig.editorconfig
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\EightNine.AssemblyInfoInputs.cache
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\EightNine.AssemblyInfo.cs
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\EightNine.csproj.CoreCompileInputs.cache
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\EightNine.dll
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\refint\EightNine.dll
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\EightNine.pdb
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\EightNine.genruntimeconfig.cache
+J:\Documentos\Drive\Jasson Clase\Aplicada I\EjerciciosTeoria\EightNine\obj\Debug\net7.0\ref\EightNine.dll
