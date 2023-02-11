@@ -8,6 +8,8 @@
             ShowActualDate();
             //CAP 8 -> EX 5
             ShowAlphabeticOrder();
+            //Cap 9 -> EX 1
+            ShowProducts();
         }
 
         public static void ShowActualDate()
@@ -40,6 +42,23 @@
                 Console.WriteLine($"1- {secondString}");
                 Console.WriteLine($"2- {firstString}");
             }
+            Console.Write("Presione alguna tecla para continuar...");
+            Console.ReadLine();
+        }
+
+        public static void ShowProducts()
+        {
+            Products newProduct = new Products();
+            newProduct.Id = 0;
+            newProduct.Name = "Cuaderno";
+            newProduct.Description = "Sirve para escribir en él";
+            newProduct.Price = 150.00f;
+
+            Console.WriteLine($"Producto: {newProduct.Name}");
+            Console.WriteLine($"Id: {newProduct.Id}");
+            Console.WriteLine($"Descripción: {newProduct.Description}");
+            Console.WriteLine($"Precio: ${newProduct.Price}");
+
             Console.Write("Presione alguna tecla para continuar...");
             Console.ReadLine();
         }
